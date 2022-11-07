@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫About Me :<br>👋 Hi, I’m @ArunachalamAR<br>👀 I’m interested in IOT and Programming<br>🌱 I’m currently learning Frontend Programming <br>💬 Ask me about Arduino, JS and React<br>📫 How to reach me: Email - arunarunachalam095@gmail.com<br>📫 How to reach me 👇
+<br>👋 Hi, I’m @ArunachalamAR<br>👀 I’m interested in IOT and Programming<br>🌱 I’m currently learning Frontend Programming <br>💬 Ask me about Arduino, JS and React<br>📫 How to reach me: Email - arunarunachalam095@gmail.com<br>📫 How to reach me 👇
 
 
 ## 🌐 Socials:
